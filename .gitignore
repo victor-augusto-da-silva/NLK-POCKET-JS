@@ -1,0 +1,36 @@
+npm init -y - cria o package.json
+
+npm i typescript -D - Instala o typescript em desenvolvimento
+
+npx tsc--init cria o tsconfig 
+
+npx tsc --init cria o tsconfig
+
+
+
+npm i @types/node tsx -D PERMITE EXECUTAR SEM CONVERTER PARA JS
+
+
+
+
+"dev": "tsx watch src/http/server.ts" permite que o servidor continue funcionando e atualize sem precisar reiniciar
+
+
+
+npm i fastify FRAMEWORD WEB
+
+
+BIOME ORGANIZA O CODIGO, FERRAMENTE DE FORMATAÇÃO EM GRANDE ESCALA
+
+
+postgres banco de dados
+
+
+docker-compose.yml -  Descreve quais sao os serviços necessarios para a aplicação
+
+
+docker compose up -d  Baixa a imagem do BD DE ACORDO com a config
+
+
+npm i drizzle-orm 
+npm i drizzle-kit -D
